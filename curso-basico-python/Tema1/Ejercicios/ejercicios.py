@@ -36,5 +36,5 @@ totalEjercicio = total + valorBools
 
 # ↓↓ Descomentar el print para ver resultado ↓↓
 
-print(totalEjercicio == int(numeroTotal))
+# print(totalEjercicio == int(numeroTotal))
 
