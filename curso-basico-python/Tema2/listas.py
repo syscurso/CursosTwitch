@@ -32,6 +32,11 @@
 
 lista = [1, 5, 4, 7]
 
+# Modifica el valor de una array por el nuevamente mencionado
+lista[2] = 90
+
+print(lista)
+
 matriz = [[4, 7, 9],
         [8, 2, 1], 
         [3, 5, 1]]

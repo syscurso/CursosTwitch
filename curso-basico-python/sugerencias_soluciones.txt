@@ -1,0 +1,11 @@
+
+Para cambiar la misma palabra en todo el doc.
+Comando --> Ctrl Shift L
+
+Para comentar todo el bloque de código
+Comandos:
+Primero seleccionar todo el bloque.
+
+Para comentar CTRL + k + c
+
+Para descomentar  CTRL + k + u

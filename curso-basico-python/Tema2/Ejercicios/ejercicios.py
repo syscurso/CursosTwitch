@@ -34,6 +34,7 @@ matriz = [['X',' ','O'],
           ['O','X',' '],
           [' ',' ',' ']]
 
+matriz[2][2] = 'X'
 
 # Para que se vea en consola correctamente.
 print(matriz[0])
