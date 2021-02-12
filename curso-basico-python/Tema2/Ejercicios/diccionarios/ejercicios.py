@@ -11,7 +11,6 @@ diccionario = {'canal' : 'syslasiGB', 'curso' : 'python', 'integrantes' : ['holo
 # Elimina el canal  :(   Luego printea el diccionario para comprobarlo
 
 
-
 # EJERCICIO 3
 # Crea dos variables, una que contenga todas las llaves y otra que contenga todos los valores. printealas.
 
