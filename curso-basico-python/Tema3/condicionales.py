@@ -30,3 +30,5 @@ elif edad > 18:
     print('Como ya eres mayor te puedo dar una buena jarra de cerveza')
 else:
     print('La edad introducida no corresponde a ninguna de este universo, vuelva a intentar')
+
+

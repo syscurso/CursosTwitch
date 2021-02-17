@@ -1,0 +1,10 @@
+
+
+Solucionar el fallo
+https://www.codewars.com/kata/54d1c59aba326343c80000e7/train/python
+
+LO HACEMOS JUNTOS
+https://www.codewars.com/kata/568d0dd208ee69389d000016/train/python
+
+OPCIONAL
+https://www.codewars.com/kata/59441520102eaa25260000bf/train/python

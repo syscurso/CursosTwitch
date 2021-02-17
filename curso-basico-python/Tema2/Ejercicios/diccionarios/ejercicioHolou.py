@@ -67,7 +67,7 @@ print('Vida restante de Braun:', vidaRestante, '\n')
 # despues del ataque.
 
 
-jefe['vida'] = jefe['vida'] - tirador['ataque']
+jefe['vida'] -= jefe['vida']  tirador['ataque']
 
 
 print('Legolas uso:', habilidadesTirador[1])
