@@ -8,3 +8,11 @@ https://www.codewars.com/kata/568d0dd208ee69389d000016/train/python
 
 OPCIONAL
 https://www.codewars.com/kata/59441520102eaa25260000bf/train/python
+
+# OPCIONAL Para el Sábado
+
+https://www.codewars.com/kata/551b4501ac0447318f0009cd/train/python
+
+https://www.codewars.com/kata/59ca8246d751df55cc00014c/train/python
+
+https://www.codewars.com/kata/56170e844da7c6f647000063/train/python
