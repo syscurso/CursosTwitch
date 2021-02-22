@@ -1,3 +1,4 @@
+import random
 
 # Cualquier nombre de variable y/o función debe estár en ingles
 
