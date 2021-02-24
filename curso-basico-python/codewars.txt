@@ -16,3 +16,8 @@ https://www.codewars.com/kata/551b4501ac0447318f0009cd/train/python
 https://www.codewars.com/kata/59ca8246d751df55cc00014c/train/python
 
 https://www.codewars.com/kata/56170e844da7c6f647000063/train/python
+
+
+#BUCLE WHILE 
+
+https://www.codewars.com/kata/55d24f55d7dd296eb9000030/train/python

@@ -1,4 +1,5 @@
 
+
 # Esta variable contiene una suma
 suma = 2 + 2
 
@@ -8,8 +9,8 @@ resta = 2 - 1
 # Esta variable contiene una multiplicación
 multiplicacion = 2 * 2
 
-# Esta variable contiene una división
-division = 5 / 2
+# Esta variable contiene una división decimal
+divisionDecimal = 5 / 2
 
 # Esta variable contiene una división entera
 divisionEntera = 5 // 2
@@ -17,6 +18,5 @@ divisionEntera = 5 // 2
 # Esta variable contiene un exponente
 exponente = 2 ** 3
 
-# Esta varaible contiene un modulo
-modulo = 5 % 2
-
+# Esta variable contiene un modulo
+modulo = 5 % 2 

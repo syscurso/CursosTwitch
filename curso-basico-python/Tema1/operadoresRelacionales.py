@@ -1,45 +1,25 @@
 
-
 # Operadores relacionales
-#  < > <= >= == !=
-
-
-#Operador relacional <
+# Un operador relacional es la comparación entre valores
+# < > <= >= == !=
 
 numeroUno = 5
 numeroDos = 5
 
-print(numeroUno < numeroDos)
+# Operador relacional < (Menor que)
+#print(numeroUno < numeroDos)
 
-# Operador relacional >
+# Operador relacional > (Mayor que)
+#print(numeroUno > numeroDos)
 
-print(numeroUno > numeroDos)
+# Operador relacional <= (Menor o igual que)
+#print(numeroUno <= numeroDos)
 
-# Operador relacional <=
+#Operador relacional >= (Mayor o igual que)
+#print(numeroUno >= numeroDos)
 
-print(numeroUno <= numeroDos)
+#Operador relacional == (Igual que)
+#print(numeroUno == numeroDos)
 
-# Operador relacional >=
-
-print(numeroUno >= numeroDos)
-
-# Operador relacional ==
-
-print(numeroUno == numeroDos)
-
-# Operador relacional !=
-
+# Operador relacional != (Diferente que)
 print(numeroUno != numeroDos)
-
-
-
-# --------------------------------
-
-#EJERCICIOS
-
-numeroSeis = '51'
-
-# ↓↓ Descomentar el print para ver resultado ↓↓
-
-# print(numeroSeis == str(51))
-
